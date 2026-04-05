@@ -1,1 +1,0 @@
-# MAANG-Stock-Analyzer
