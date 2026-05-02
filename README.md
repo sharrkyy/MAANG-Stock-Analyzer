@@ -1,4 +1,6 @@
 Stock Analyzer
+
+
 This project has two versions:
 
 Version 1 → Basic procedural design with a single loop and if/elif menu (see folder version1/)
